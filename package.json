@@ -1,0 +1,14 @@
+{
+  "name": "bughunt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "https://cdn.cypress.io/beta/npm/13.0.0/darwin-arm64/release/13.0.0-d2058a3e002e9f565ba67b5effc20b64defe0157/cypress.tgz"
+  }
+}
